@@ -1,0 +1,60 @@
+FH2 database patch audit
+========================
+
+This compares the package database against the supplied clean base database.
+Review this report before installing the mod. It lists every table with row changes.
+
+Table | Updated rows | Inserted rows | Deleted rows
+------|--------------|---------------|-------------
+CameraOverrides | 0 | 1 | 0
+CarExceptions | 0 | 1 | 0
+CarPartPositions | 0 | 10 | 0
+Data_Car | 0 | 1 | 0
+Data_Car_Buckets | 0 | 1 | 0
+Data_CarBody | 0 | 1 | 0
+Data_Drivetrain | 0 | 1 | 0
+Data_Engine | 0 | 2 | 0
+List_AntiSwayPhysics | 0 | 6 | 0
+List_SpringDamperPhysics | 0 | 8 | 0
+List_TorqueCurve | 0 | 7 | 0
+List_UpgradeAntiSwayFront | 0 | 3 | 0
+List_UpgradeAntiSwayRear | 0 | 3 | 0
+List_UpgradeBrakes | 0 | 4 | 0
+List_UpgradeCarBody | 0 | 1 | 0
+List_UpgradeCarBodyChassisStiffness | 0 | 4 | 0
+List_UpgradeCarBodyFrontBumper | 0 | 5 | 0
+List_UpgradeCarBodyHood | 0 | 1 | 0
+List_UpgradeCarBodyRearBumper | 0 | 4 | 0
+List_UpgradeCarBodySideSkirt | 0 | 4 | 0
+List_UpgradeCarBodyTireWidthFront | 0 | 3 | 0
+List_UpgradeCarBodyTireWidthRear | 0 | 3 | 0
+List_UpgradeCarBodyWeight | 0 | 4 | 0
+List_UpgradeDrivetrain | 0 | 2 | 0
+List_UpgradeDrivetrainClutch | 0 | 3 | 0
+List_UpgradeDrivetrainDifferential | 0 | 3 | 0
+List_UpgradeDrivetrainDriveline | 0 | 4 | 0
+List_UpgradeDrivetrainTransmission | 0 | 3 | 0
+List_UpgradeEngine | 0 | 3 | 0
+List_UpgradeEngineCamshaft | 0 | 7 | 0
+List_UpgradeEngineCSC | 0 | 3 | 0
+List_UpgradeEngineDisplacement | 0 | 4 | 0
+List_UpgradeEngineDSC | 0 | 3 | 0
+List_UpgradeEngineExhaust | 0 | 8 | 0
+List_UpgradeEngineFlywheel | 0 | 8 | 0
+List_UpgradeEngineFuelSystem | 0 | 7 | 0
+List_UpgradeEngineIgnition | 0 | 7 | 0
+List_UpgradeEngineIntake | 0 | 8 | 0
+List_UpgradeEngineIntercooler | 0 | 6 | 0
+List_UpgradeEngineManifold | 0 | 6 | 0
+List_UpgradeEngineOilCooling | 0 | 5 | 0
+List_UpgradeEnginePistonsCompression | 0 | 5 | 0
+List_UpgradeEngineTurboSingle | 0 | 6 | 0
+List_UpgradeEngineTurboTwin | 0 | 3 | 0
+List_UpgradeEngineValves | 0 | 4 | 0
+List_UpgradeRearWing | 0 | 3 | 0
+List_UpgradeRimSizeFront | 0 | 6 | 0
+List_UpgradeRimSizeRear | 0 | 6 | 0
+List_UpgradeSpringDamper | 0 | 4 | 0
+List_UpgradeTireCompound | 0 | 5 | 0
+
+Totals: 0 updated, 210 inserted, 0 deleted.
