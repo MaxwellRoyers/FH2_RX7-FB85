@@ -608,5 +608,5 @@
   <Zip version="1" path="game:\media\cars\dod_chargerff_68.zip" priority="80" dirstart="15128905" dirsize="34332" direntries="314" />
   <Zip version="1" path="game:\media\cars\for_escortrs1600ff_70.zip" priority="80" dirstart="16555489" dirsize="32604" direntries="301" />
   <Zip version="1" path="game:\media\cars\hon_s2000ff_01.zip" priority="80" dirstart="15789361" dirsize="33926" direntries="317" />
-  <Zip version="1" path="game:\media\cars\maz_rx7_85.zip" priority="80" dirstart="19832810" dirsize="38044" direntries="358" />
+  <Zip version="1" path="game:\media\cars\maz_rx7_85.zip" priority="80" dirstart="19833889" dirsize="38123" direntries="359" />
 </ZipFiles>

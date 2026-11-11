@@ -1,0 +1,10 @@
+@'
+
+# Generated build files
+**/build/
+**/build-*/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/build.ninja
+**/.ninja_*
+'@ | Add-Content .gitignore
